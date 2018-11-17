@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180808",
-		"title": "为神建立家室：效法基督受苦榜样",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180808.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/ut20180808/ut/ut180808.mp3",
-		"id": 18180808
-	},
-	{
 		"time": "20180809",
 		"title": "为神建立家室：夫妻在基督里的生活",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180809.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ut20181114/ut/ut181114.mp3",
 		"id": 18181114
+	},
+	{
+		"time": "20181115",
+		"title": "为神建立家室：酸甜人生",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181115.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ut20181115/ut/ut181115.mp3",
+		"id": 18181115
 	}
 ]
