@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180809",
-		"title": "万变世代中的希望（1）",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it180809.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/it20180809/it/it180809.mp3",
-		"id": 41180809
-	},
-	{
 		"time": "20180810",
 		"title": "万变世代中的希望（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it180810.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/it20181115/it/it181115.mp3",
 		"id": 41181115
+	},
+	{
+		"time": "20181116",
+		"title": "大能的祷告",
+		"downUrl": "http://txly2.net/ly/audio/2018/it/it181116.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/it20181116/it/it181116.mp3",
+		"id": 41181116
 	}
 ]
