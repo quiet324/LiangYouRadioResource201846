@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180809",
-		"title": "神试验亚伯拉罕（4）（创22:13-19）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th180809.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/th20180809/th/th180809.mp3",
-		"id": 32180809
-	},
-	{
 		"time": "20180810",
 		"title": "人子救主的教导（2）（路8:4-15）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th180810.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/th20181114/th/th181114.mp3",
 		"id": 32181114
+	},
+	{
+		"time": "20181115",
+		"title": "雅各在示剑留下臭名（1）（创34:1-3）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th181115.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/th20181115/th/th181115.mp3",
+		"id": 32181115
 	}
 ]
