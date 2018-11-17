@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180811",
-		"title": "动绝妙：两人同心的羽球双打",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180811.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/yu20180811/yu/yu180811.mp3",
-		"id": 7180811
-	},
-	{
 		"time": "20180812",
 		"title": "祝你健康：风湿免疫护理",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180812.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/yu20181116/yu/yu181116.mp3",
 		"id": 7181116
+	},
+	{
+		"time": "20181117",
+		"title": "绝妙生活系列：时间分配（3）如何分配时间（下）",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181117.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/yu20181117/yu/yu181117.mp3",
+		"id": 7181117
 	}
 ]
