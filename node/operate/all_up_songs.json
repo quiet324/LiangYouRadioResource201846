@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180807",
-		"title": "亲情儿童房：快乐教养实践77招儿──一劳永逸的亲职教材；与父母促膝谈：马戏团的大屋顶下",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180807.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/up20180807/up/up180807.mp3",
-		"id": 20180807
-	},
-	{
 		"time": "20180808",
 		"title": "亲情音乐厅：《谁能使我与神的爱隔绝》；与父母促膝谈：质和量",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180808.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/up20181113/up/up181113.mp3",
 		"id": 20181113
+	},
+	{
+		"time": "20181114",
+		"title": "情绪与真理（13）辨识思想毒虫“聚光虫”、“比较虫”、“优先顺序颠倒虫”等（讲员：傅立德牧师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181114.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/up20181114/up/up181114.mp3",
+		"id": 20181114
 	}
 ]
