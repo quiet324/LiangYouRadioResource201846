@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180808",
-		"title": "忠勤主仆——马可福音（12）事奉的上算就是要有最坏的打算（可6:7-13、30、14-29）（讲员：张得仁）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be180808.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/be20180808/be/be180808.mp3",
-		"id": 36180808
-	},
-	{
 		"time": "20180809",
 		"title": "忠勤主仆——马可福音（13）神的工人必须是位“牧人”（可6:31-56）（讲员：张得仁）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be180809.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/be20181113/be/be181113.mp3",
 		"id": 36181113
+	},
+	{
+		"time": "20181114",
+		"title": "信心行为——雅各书（7）真正的虔诚（雅1:26-27）（讲员：陈灵新）",
+		"downUrl": "http://txly2.net/ly/audio/2018/be/be181114.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/be20181114/be/be181114.mp3",
+		"id": 36181114
 	}
 ]
