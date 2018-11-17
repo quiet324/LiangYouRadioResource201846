@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180808",
-		"title": "大卫的热切与际遇系列：时代终结（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180808.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/iv20180808/iv/iv180808.mp3",
-		"id": 42180808
-	},
-	{
 		"time": "20180809",
 		"title": "约瑟──正直与宽恕系列：父亲宠爱与兄弟仇视（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180809.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/iv20181114/iv/iv181114.mp3",
 		"id": 42181114
+	},
+	{
+		"time": "20181115",
+		"title": "'俗世中的超自然生活系列：将死犹生（3）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv181115.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/iv20181115/iv/iv181115.mp3",
+		"id": 42181115
 	}
 ]
