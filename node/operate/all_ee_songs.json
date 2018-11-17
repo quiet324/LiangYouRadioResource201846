@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180810",
-		"title": "智慧语录：祂创造了一切，却选择了匿名；拥抱小语：没有借口，能让你停止爱妻子；亮丽人生不是梦：掌握自己的生活",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180810.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/ee20180810/ee/ee180810.mp3",
-		"id": 29180810
-	},
-	{
 		"time": "20180811",
 		"title": "智慧语录：不要抱怨苦难，学会直面苦难，超越苦难；拥抱小语：神是慈爱全能的，为什么世上还有苦难？用智慧演绎人生：领袖要吹犯规哨",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180811.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ee20181115/ee/ee181115.mp3",
 		"id": 29181115
+	},
+	{
+		"time": "20181116",
+		"title": "智慧语录：看透人生的几句话；拥抱小语：为何信了耶稣还有苦难？亮丽人生不是梦：过犹不及——欲望的界限",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181116.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ee20181116/ee/ee181116.mp3",
+		"id": 29181116
 	}
 ]
