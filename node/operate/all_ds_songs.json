@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180810",
-		"title": "从布道到培训：亚迦布的预告（主持：卢文、周虹）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180810.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/ds20180810/ds/ds180810.mp3",
-		"id": 46180810
-	},
-	{
 		"time": "20180811",
 		"title": "从布道到培训：保罗访问雅各（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180811.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ds20181115/ds/ds181115.mp3",
 		"id": 46181115
+	},
+	{
+		"time": "20181116",
+		"title": "从布道到培训：神的审判（主持：卢文、杨天成）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181116.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ds20181116/ds/ds181116.mp3",
+		"id": 46181116
 	}
 ]
