@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180808",
-		"title": "救恩的盼望──亚婕的故事（4）",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180808.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/gn20180808/gn/gn180808.mp3",
-		"id": 22180808
-	},
-	{
 		"time": "20180809",
 		"title": "文学的故事──张贵兴的“沙龙祖母”",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180809.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/gn20181114/gn/gn181114.mp3",
 		"id": 22181114
+	},
+	{
+		"time": "20181115",
+		"title": "文学会客室：沈从文与《边城》",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181115.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/gn20181115/gn/gn181115.mp3",
+		"id": 22181115
 	}
 ]
