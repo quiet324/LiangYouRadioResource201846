@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180807",
-		"title": "信心日引：专心祷告（彼前4:7）；大阅读家：第七章、阅读的决定-2",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180807.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/bc20180807/bc/bc180807.mp3",
-		"id": 10180807
-	},
-	{
 		"time": "20180808",
 		"title": "信心日引：比雪更白（诗51:7）；大阅读家：第七章、阅读的决定-3",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180808.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/bc20181113/bc/bc181113.mp3",
 		"id": 10181113
+	},
+	{
+		"time": "20181114",
+		"title": "信心日引：神眼中的信心（亚3:4）；俗世圣徒：第十八章、苦难-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181114.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/bc20181114/bc/bc181114.mp3",
+		"id": 10181114
 	}
 ]
