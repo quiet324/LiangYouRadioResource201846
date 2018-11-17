@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180803",
-		"title": "生命之歌",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180803.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/gn20180803/gn/gn180803.mp3",
-		"id": 22180803
-	},
-	{
 		"time": "20180806",
 		"title": "救恩的盼望──亚婕的故事（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180806.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/gn20181109/gn/gn181109.mp3",
 		"id": 22181109
+	},
+	{
+		"time": "20181112",
+		"title": "活出善良──欢然的故事",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181112.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/gn20181112/gn/gn181112.mp3",
+		"id": 22181112
 	}
 ]
