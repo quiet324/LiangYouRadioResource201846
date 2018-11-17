@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180810",
-		"title": "皮小弟与妙阿姨：我是秦始皇",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180810.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/pc20180810/pc/pc180810.mp3",
-		"id": 17180810
-	},
-	{
 		"time": "20180811",
 		"title": "圣经好好听：心浮气躁的扫罗",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180811.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/pc20181115/pc/pc181115.mp3",
 		"id": 17181115
+	},
+	{
+		"time": "20181116",
+		"title": "皮小弟与妙阿姨：占便宜就是吃亏",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181116.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/pc20181116/pc/pc181116.mp3",
+		"id": 17181116
 	}
 ]
