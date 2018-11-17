@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180806",
-		"title": "生命之歌：郝裘丽《我的眼睛已经看见》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180806.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/cw20180806/cw/cw180806.mp3",
-		"id": 51180806
-	},
-	{
 		"time": "20180807",
 		"title": "弹指之间：《主耶稣爱我》、《我需要有你在我生命中》、《给我换颗心》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180807.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/cw20181112/cw/cw181112.mp3",
 		"id": 51181112
+	},
+	{
+		"time": "20181113",
+		"title": "弹指之间：《一生一世》、《舍己的爱》、《这一条路》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181113.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/cw20181113/cw/cw181113.mp3",
+		"id": 51181113
 	}
 ]
