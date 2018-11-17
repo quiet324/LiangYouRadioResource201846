@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180809",
-		"title": "信心日引：死后的生命（约6:40）；大阅读家：第七章、阅读的决定-4",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180809.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/bc20180809/bc/bc180809.mp3",
-		"id": 10180809
-	},
-	{
 		"time": "20180810",
 		"title": "黑暗中的舞者：第十七章、家庭之锚；第十八章、与天使合唱-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180810.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/bc20181115/bc/bc181115.mp3",
 		"id": 10181115
+	},
+	{
+		"time": "20181116",
+		"title": "彩虹花园：第九章、山毛榉林里发生的事-2；第十章、进入光中-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181116.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/bc20181116/bc/bc181116.mp3",
+		"id": 10181116
 	}
 ]
