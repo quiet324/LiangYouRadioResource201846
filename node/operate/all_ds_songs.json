@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180809",
-		"title": "宣教心之路：差派宣教士的模式与策略（主持：姚谦、杨天成）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180809.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/ds20180809/ds/ds180809.mp3",
-		"id": 46180809
-	},
-	{
 		"time": "20180810",
 		"title": "从布道到培训：亚迦布的预告（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180810.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ds20181114/ds/ds181114.mp3",
 		"id": 46181114
+	},
+	{
+		"time": "20181115",
+		"title": "宣教心之路：如何为宣教士子女祈祷（主持：姚谦、林诚）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181115.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ds20181115/ds/ds181115.mp3",
+		"id": 46181115
 	}
 ]
