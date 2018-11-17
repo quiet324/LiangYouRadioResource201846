@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180803",
-		"title": "赞美旋律：贝多芬庄严弥撒之《信经》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180803.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/cw20180803/cw/cw180803.mp3",
-		"id": 51180803
-	},
-	{
 		"time": "20180806",
 		"title": "生命之歌：郝裘丽《我的眼睛已经看见》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180806.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/cw20181109/cw/cw181109.mp3",
 		"id": 51181109
+	},
+	{
+		"time": "20181112",
+		"title": "生命之歌：卡特《坚立在应许上》、诺曼‧哈钦斯《我正坚立在基督的应许上》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181112.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/cw20181112/cw/cw181112.mp3",
+		"id": 51181112
 	}
 ]
