@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180806",
-		"title": "好得无比，每一天：荧幕上的暴力（创6:11、13）；职场转化（9）（主持：林诚）；我爱背金句：提前6:12",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180806.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/dy20180806/dy/dy180806.mp3",
-		"id": 24180806
-	},
-	{
 		"time": "20180807",
 		"title": "好得无比，每一天：个人生活中的暴力（结36:26）；跟随耶稣的脚踪行：耶稣的“我是”（9）（主持：程蒙恩）；我爱背金句：提前6:12",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180807.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/dy20181112/dy/dy181112.mp3",
 		"id": 24181112
+	},
+	{
+		"time": "20181113",
+		"title": "好得无比，每一天：稍安毋躁（箴15:1）；马太福音说书（2）；我爱背金句：徒17:26-27",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181113.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/dy20181113/dy/dy181113.mp3",
+		"id": 24181113
 	}
 ]
