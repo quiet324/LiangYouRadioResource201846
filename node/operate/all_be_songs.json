@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180805",
-		"title": "忠勤主仆——马可福音（9）与神亲密不在乎“卿卿我我”而在乎“遵行神旨”（可3:31-35）（讲员：张得仁）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be180805.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/be20180805/be/be180805.mp3",
-		"id": 36180805
-	},
-	{
 		"time": "20180806",
 		"title": "忠勤主仆——马可福音（10）真正的至圣老师耶稣（可4:1-34）（讲员：张得仁）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be180806.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/be20181110/be/be181110.mp3",
 		"id": 36181110
+	},
+	{
+		"time": "20181111",
+		"title": "信心行为——雅各书（4）人生如花草（雅1:9-11）（讲员：陈灵新）",
+		"downUrl": "http://txly2.net/ly/audio/2018/be/be181111.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/be20181111/be/be181111.mp3",
+		"id": 36181111
 	}
 ]
