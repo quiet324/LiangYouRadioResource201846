@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180807",
-		"title": "神试验亚伯拉罕（2）（创22:5-8）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th180807.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/th20180807/th/th180807.mp3",
-		"id": 32180807
-	},
-	{
 		"time": "20180808",
 		"title": "神试验亚伯拉罕（3）（创22:9-12）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th180808.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/th20181112/th/th181112.mp3",
 		"id": 32181112
+	},
+	{
+		"time": "20181113",
+		"title": "雅各与以扫相见（3）（创33:12-16）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th181113.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/th20181113/th/th181113.mp3",
+		"id": 32181113
 	}
 ]
