@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180806",
-		"title": "祝福你的丈夫，享受美好婚姻（9）婚姻的旅程包括一同走过艰难，使危机成为我们成长的时机",
-		"downUrl": "http://txly2.net/ly/audio/2018/se/se180806.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 19,
-		"artistName": "恋爱季节",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/se20180806/se/se180806.mp3",
-		"id": 19180806
-	},
-	{
 		"time": "20180807",
 		"title": "祝福你的丈夫，享受美好婚姻（10）让祷告成为我们婚姻中最大的事",
 		"downUrl": "http://txly2.net/ly/audio/2018/se/se180807.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "恋爱季节",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/se20181112/se/se181112.mp3",
 		"id": 19181112
+	},
+	{
+		"time": "20181113",
+		"title": "畅所欲言非梦想，深层沟通无障碍（6）上帝在婚姻中设立了更崇高的使命",
+		"downUrl": "http://txly2.net/ly/audio/2018/se/se181113.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 19,
+		"artistName": "恋爱季节",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/se20181113/se/se181113.mp3",
+		"id": 19181113
 	}
 ]
