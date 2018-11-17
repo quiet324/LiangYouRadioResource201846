@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180806",
-		"title": "良院专区：访问学员；公布《教会增长》和《灵修操练》考题",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180806.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/ds20180806/ds/ds180806.mp3",
-		"id": 46180806
-	},
-	{
 		"time": "20180807",
 		"title": "教牧新视野：简介教会双翼系统（主持：姚谦、杨天成）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180807.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ds20181111/ds/ds181111.mp3",
 		"id": 46181111
+	},
+	{
+		"time": "20181112",
+		"title": "良院专区：听众回应“向老师致敬” 殷言老师；老师心声（邱长老）；公布《多元布道法》、《教会差传培育》考题",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181112.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ds20181112/ds/ds181112.mp3",
+		"id": 46181112
 	}
 ]
