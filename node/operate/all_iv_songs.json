@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180803",
-		"title": "大卫的热切与际遇系列：敬虔者也愚昧（1）",
-		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180803.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/iv20180803/iv/iv180803.mp3",
-		"id": 42180803
-	},
-	{
 		"time": "20180806",
 		"title": "大卫的热切与际遇系列：敬虔者也愚昧（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180806.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/iv20181109/iv/iv181109.mp3",
 		"id": 42181109
+	},
+	{
+		"time": "20181112",
+		"title": "'特别信息：事工活力的要素（3）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv181112.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/iv20181112/iv/iv181112.mp3",
+		"id": 42181112
 	}
 ]
