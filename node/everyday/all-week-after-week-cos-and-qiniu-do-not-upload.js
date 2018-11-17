@@ -16,7 +16,7 @@ var deasync = require('deasync');
 var rule = new schedule.RecurrenceRule();
 // rule.dayOfWeek = [0, new schedule.Range(4, 6)];
 rule.hour =  [1, 2,  6, 9, 16, 18, 21];
-rule.minute = 3;
+rule.minute = 16;
 
 
 
@@ -219,7 +219,7 @@ var j = schedule.scheduleJob(rule, function() { // rule hour at 5 minutes
                         console.log(moment().format('MMMM Do YYYY, h:mm:ss a') + artist.name + audio.time)
                             // var today = dateFormat(new Date(), "yyyymmdd");
                         var today = moment().format("YYYYMMDD");
-                        var yesterday = moment().add(-5, 'days').format("YYYYMMDD");
+                        var yesterday = moment().add(-4, 'days').format("YYYYMMDD");
 
                        //if (audio.time === today || (audio.time === yesterday && artist.id === 15)) {
                             if (audio.time === yesterday) {
