@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180808",
-		"title": "心歌心曲：大卫之声《天父恩典》、《回转》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180808.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/cw20180808/cw/cw180808.mp3",
-		"id": 51180808
-	},
-	{
 		"time": "20180809",
 		"title": "来吧赞美：《有福的确据》、《献上自己为祭》、《圣灵充满我》、《一粒麦子》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180809.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/cw20181114/cw/cw181114.mp3",
 		"id": 51181114
+	},
+	{
+		"time": "20181115",
+		"title": "来吧赞美：《主虽然》、《我知谁掌管明天》、《在主内》、《靠着耶稣得胜》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181115.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/cw20181115/cw/cw181115.mp3",
+		"id": 51181115
 	}
 ]
