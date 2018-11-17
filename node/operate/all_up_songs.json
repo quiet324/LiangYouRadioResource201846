@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180806",
-		"title": "亲情厨房：水果传（5）榴莲；与父母促膝谈：家庭图画",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180806.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/up20180806/up/up180806.mp3",
-		"id": 20180806
-	},
-	{
 		"time": "20180807",
 		"title": "亲情儿童房：快乐教养实践77招儿──一劳永逸的亲职教材；与父母促膝谈：马戏团的大屋顶下",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180807.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/up20181112/up/up181112.mp3",
 		"id": 20181112
+	},
+	{
+		"time": "20181113",
+		"title": "情绪与真理（12）辨识思想毒虫“读心虫”、“怪罪虫”、“标签虫”、“灾难虫”（讲员：傅立德牧师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181113.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/up20181113/up/up181113.mp3",
+		"id": 20181113
 	}
 ]
