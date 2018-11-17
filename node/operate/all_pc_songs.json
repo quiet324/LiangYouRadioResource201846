@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180809",
-		"title": "巨人的秘密：美国海军少将理查德拜尔德",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180809.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/pc20180809/pc/pc180809.mp3",
-		"id": 17180809
-	},
-	{
 		"time": "20180810",
 		"title": "皮小弟与妙阿姨：我是秦始皇",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180810.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/pc20181114/pc/pc181114.mp3",
 		"id": 17181114
+	},
+	{
+		"time": "20181115",
+		"title": "巨人的秘密：波兰物理化学家玛丽亚斯克洛道斯卡（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181115.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/pc20181115/pc/pc181115.mp3",
+		"id": 17181115
 	}
 ]
