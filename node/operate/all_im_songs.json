@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180809",
-		"title": "黄昏下午茶：别让过去的错误影响现在的婚恋关系──因为跟前任发生过性关系，深深的痛悔、不安、罪疚感，影响着跟现任的恋爱关系，说与不说似乎都有害怕与担忧；甚至有一对已进入谈婚论嫁，却因着婚前性行为，被厌弃和恐惧感折磨着……",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180809.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/im20180809/im/im180809.mp3",
-		"id": 14180809
-	},
-	{
 		"time": "20180810",
 		"title": "母子两地书：关系先行，教育在后──字里行间浓浓的母子情深，不难想象妈妈的建议和引导，是建立在她跟孩子之间亲密的关系上。父母对孩子的教育是否有效，取决于两代人的关系是否亲密，交通是否敞开、顺畅，关系建立了，教育才能起作用。当然，夫妻关系是否亲密和谐，也会极大地影响亲子关系。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180810.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/im20181115/im/im181115.mp3",
 		"id": 14181115
+	},
+	{
+		"time": "20181116",
+		"title": "母子两地书：乖巧懂事的孩子居然说妈妈“站着说话不腰疼”──一向对妈妈的教导几乎是言听计从的少年人，居然也会对妈妈讲的道理感到烦躁，并竟然敢直接回应妈妈“站着说话不腰疼”；要是一般的家长，听到孩子这样对自己说话，就算不会勃然大怒，也会感到生气了；这位少年人的妈妈会如何反应呢？",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181116.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/im20181116/im/im181116.mp3",
+		"id": 14181116
 	}
 ]
