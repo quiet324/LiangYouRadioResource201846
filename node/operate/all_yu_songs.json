@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180806",
-		"title": "绝妙一周乐：让我的梦不再受伤",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180806.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/yu20180806/yu/yu180806.mp3",
-		"id": 7180806
-	},
-	{
 		"time": "20180807",
 		"title": "绝妙生活系列：财富给予原则（4）",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180807.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/yu20181111/yu/yu181111.mp3",
 		"id": 7181111
+	},
+	{
+		"time": "20181112",
+		"title": "动绝妙：三分球王雷艾伦",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181112.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/yu20181112/yu/yu181112.mp3",
+		"id": 7181112
 	}
 ]
