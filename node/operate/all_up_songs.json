@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180803",
-		"title": "教导儿女智财教育：第四课、计划将来（上）定期储蓄的重要",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180803.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/up20180803/up/up180803.mp3",
-		"id": 20180803
-	},
-	{
 		"time": "20180806",
 		"title": "亲情厨房：水果传（5）榴莲；与父母促膝谈：家庭图画",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180806.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/up20181109/up/up181109.mp3",
 		"id": 20181109
+	},
+	{
+		"time": "20181112",
+		"title": "情绪与真理（11）辨识思想毒虫“否定虫”（讲员：傅立德牧师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181112.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/up20181112/up/up181112.mp3",
+		"id": 20181112
 	}
 ]
