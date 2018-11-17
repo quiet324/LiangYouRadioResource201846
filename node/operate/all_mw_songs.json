@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180811",
-		"title": "神的旨意不能拦阻（伯42章）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180811.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/mw20180811/mw/mw180811.mp3",
-		"id": 30180811
-	},
-	{
 		"time": "20180812",
 		"title": "不要计较（林前13:4-13）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180812.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/mw20181116/mw/mw181116.mp3",
 		"id": 30181116
+	},
+	{
+		"time": "20181117",
+		"title": "祷告，莫沮丧（路11:1-13）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181117.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/mw20181117/mw/mw181117.mp3",
+		"id": 30181117
 	}
 ]
