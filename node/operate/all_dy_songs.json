@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180803",
-		"title": "好得无比，每一天：偿还你所欠上帝的（林后8:9）；健康咨询站（8）（主持：李重恩、周彩云；嘉宾：陈医生）；我爱背金句：林前1:10",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180803.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/dy20180803/dy/dy180803.mp3",
-		"id": 24180803
-	},
-	{
 		"time": "20180806",
 		"title": "好得无比，每一天：荧幕上的暴力（创6:11、13）；职场转化（9）（主持：林诚）；我爱背金句：提前6:12",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180806.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/dy20181109/dy/dy181109.mp3",
 		"id": 24181109
+	},
+	{
+		"time": "20181112",
+		"title": "好得无比，每一天：众声喧哗（诗46:10）；马太福音说书（1）；我爱背金句：徒17:26-27",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181112.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/dy20181112/dy/dy181112.mp3",
+		"id": 24181112
 	}
 ]
