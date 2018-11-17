@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180807",
-		"title": "心情日记；每天快乐多一些──评头论足；圣经故事",
-		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf180807.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 58,
-		"artistName": "爱在人间（云南话）",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201832/ynf20180807/ynf/ynf180807.mp3",
-		"id": 58180807
-	},
-	{
 		"time": "20180808",
 		"title": "教养天国的小孩；款款你的故事：信仰不迷茫",
 		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf180808.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "爱在人间（云南话）",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ynf20181112/ynf/ynf181112.mp3",
 		"id": 58181112
+	},
+	{
+		"time": "20181113",
+		"title": "心情日记；圣经与养生；圣经故事",
+		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf181113.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 58,
+		"artistName": "爱在人间（云南话）",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ynf20181113/ynf/ynf181113.mp3",
+		"id": 58181113
 	}
 ]
