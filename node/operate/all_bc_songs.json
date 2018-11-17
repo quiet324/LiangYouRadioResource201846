@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180803",
-		"title": "黑暗中的舞者：第十五章、田间百合花；第十六章、特别的敬拜者",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180803.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201831/bc20180803/bc/bc180803.mp3",
-		"id": 10180803
-	},
-	{
 		"time": "20180806",
 		"title": "信心日引：信徒的祷告（约15:7）；大阅读家：第七章、阅读的决定-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180806.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/bc20181109/bc/bc181109.mp3",
 		"id": 10181109
+	},
+	{
+		"time": "20181112",
+		"title": "信心日引：花时间祷告（帖前5:16-18）；俗世圣徒：第十七章、罪恶-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181112.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/bc20181112/bc/bc181112.mp3",
+		"id": 10181112
 	}
 ]
